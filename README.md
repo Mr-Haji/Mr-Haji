@@ -1,5 +1,5 @@
-<h1 align="center" style="color: #blue;" >Hi 👋, I'm Abdul Raheem</h1>
-<h3 align="center" style="color: #blue;" >A passionated frontend developer who love coding and problem solving and soon will be a React developer</h3>
+<h1 align="center" style="color: blue;" >Hi 👋, I'm Abdul Raheem</h1>
+<h3 align="center" style="color: blue;" >A passionated frontend developer who love coding and problem solving and soon will be a React developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-haji" alt="mr-haji" /></a> </p>
 
